@@ -13,16 +13,17 @@ Welcome to **Akkor Hotels**! This organization is dedicated to building a modern
 | [Backend](https://github.com/Akkor-Hotel/backend)                  | Manages API services, authentication, and database interactions.   |
 | [Frontend](https://github.com/Akkor-Hotel/frontend)                 | The web-based user interface for searching, booking, and managing hotels. |
 | [Project Board](https://github.com/orgs/Akkor-Hotel/projects/1/views/1) | Development roadmap and ongoing tasks tracking.                   |
+| [Discord](https://discord.gg/5TcQdFV3td)                            | Community and developer discussions.                              |
 
 </div>
 
 ---
 
-## 📖 Project Overview
+## 📚 Project Overview
 
 Akkor Hotels is a full-stack hotel booking system where users can search for hotels, make bookings, and manage their reservations. Admins have access to hotel and booking management tools.
 
-### 🏗️ Core Features:
+### 🏰️ Core Features:
 - **Hotel Management** (CRUD operations for admins)
 - **User Authentication & Role Management** (Admins, Employees, and Customers)
 - **Secure Payment Processing** (Stripe or another provider)
@@ -92,7 +93,7 @@ Frontend should be available at `http://localhost:3000`
 
 ---
 
-## 📜 License
+## 🐟 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
